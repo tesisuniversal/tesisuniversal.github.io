@@ -61,3 +61,9 @@ body {
   border: 2px solid #ffc107;
   transform: scale(1.05);
 }
+/* HERO CONTACTO */
+.contacto-hero {
+  height: 60vh;
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+              url('https://colombia.unir.net/wp-content/uploads/sites/4/2025/01/Que-tipos-de-abogados-existen-y-cuales-son-sus-funciones1.jpg') center/cover;
+}
