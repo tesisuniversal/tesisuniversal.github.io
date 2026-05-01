@@ -37,3 +37,27 @@ body {
 .card:hover {
   transform: translateY(-10px);
 }
+/* HERO SERVICIOS */
+.servicios-hero {
+  height: 50vh;
+  background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
+              url('imagenes/imagen1.jpg') center/cover;
+}
+
+/* TARJETAS SERVICIO */
+.servicio-card {
+  border: none;
+  border-radius: 15px;
+  transition: 0.3s;
+  position: relative;
+}
+
+.servicio-card:hover {
+  transform: translateY(-10px);
+}
+
+/* DESTACADO */
+.destacado {
+  border: 2px solid #ffc107;
+  transform: scale(1.05);
+}
