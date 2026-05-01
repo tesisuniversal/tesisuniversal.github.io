@@ -41,7 +41,7 @@ body {
 .servicios-hero {
   height: 50vh;
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-              url('imagenes/imagen1.jpg') center/cover;
+              url('https://colombia.unir.net/wp-content/uploads/sites/4/2025/01/Que-tipos-de-abogados-existen-y-cuales-son-sus-funciones1.jpg') center/cover;
 }
 
 /* TARJETAS SERVICIO */
